@@ -20,7 +20,7 @@ io.on('connection', function (client) {
 
     var dataString = data.toString();
 
-    io.emit('typing', dataString)
+    io.emit('typing', dataString)ghfhsf
   })
 
   
